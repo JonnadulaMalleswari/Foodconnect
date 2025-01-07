@@ -60,16 +60,26 @@ Create users for different NGOs.
 9.Public Groups Creation:
 
 Create public groups such as Iksha, NSS, and Street Cause.
+
+
 10.Report Types and Reports Creation:
 Create custom report types and corresponding reports for analysis.
+
+
 11.Dashboard Creation:
 
 Create custom dashboards and add relevant reports.
+
+
 12.Sharing Rules Creation:
 
 Create sharing rules for the Drop-Off Point object based on Distance field values.
+
+
 13.Home Page Creation:
 
 Create a custom home page for the app using the Lightning App Builder.
+
+
 14.Conclusion
 By leveraging Salesforce for this project, we created an efficient system for managing food donations. It connects surplus food suppliers with individuals in need, maximizing resource utilization and effectively addressing food insecurity.
